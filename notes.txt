@@ -4,6 +4,30 @@
 
  git init
 
- git checkout -b new_branch
+ git checkout -b new_branch #child
 
- 
+ #make code changes
+
+ git add .
+ git add filenames
+
+ git commit -m "MESSAGE"
+
+ to show in bitbucket
+ git push -u origin new-feature
+
+#gives all branches
+git branch -r 
+
+git checkout origin/child
+
+git checkout child
+
+git pull
+
+
+
+
+
+
+
