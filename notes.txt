@@ -25,6 +25,14 @@ git checkout child
 
 git pull
 
+git add .
+
+git commit -m "MMESSAGE"
+
+git push origin child
+
+
+
 
 
 
