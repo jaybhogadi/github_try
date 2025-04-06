@@ -1,0 +1,9 @@
+ git clone https://github.com/jaybhogadi/github_try.git
+
+ cd folder
+
+ git init
+
+ git checkout -b new_branch
+
+ 
